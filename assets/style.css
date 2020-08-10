@@ -1,0 +1,11 @@
+textarea, button {
+    resize: none;
+    -moz-border-radius: 0px !important;
+    -webkit-border-radius: 0px !important;
+    border-radius: 0px !important;
+}
+
+h4 {
+    margin: auto !important;
+    padding-top: 5px !important;
+}
